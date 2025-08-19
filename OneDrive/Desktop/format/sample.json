@@ -1,0 +1,21 @@
+{
+    "servers" : [
+        {
+            "name": "Server1",
+            "ip": "10.0.0.0",
+            "port": 8080,
+            "status": "active",
+            "region": "ap-south-1",
+            "tags": ["web", "production"]
+        },
+        {
+            "name": "Server2",
+            "ip": "10.0.1.0",
+            "port": 9090,
+            "status": "inactive",
+            "region": "us-west-2",
+            "tags": ["db", "staging"]
+        }
+
+    ]
+}
