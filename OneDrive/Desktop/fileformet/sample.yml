@@ -1,0 +1,22 @@
+servers
+  - name:server1
+    ip:10.0.0.0 
+    port:8080
+    region:us-west
+    status:active
+    OS-type:Linux
+  - name:server2
+    ip:10.0.1.0
+    age:5
+    port:9090
+    region:us-east
+    status:inactive
+    OS-type:windows
+
+  - name:server3
+    ip:10.0.2.0
+    port:7070
+    region:us-central
+    status:active
+    OS-type:Linux
+  

@@ -1,0 +1,21 @@
+<servers>
+
+<server>    
+    <name>MyServer</name>
+    <ip>10.0.0.0</ip>
+    <port>8080</port>
+    <status>active</status>
+    <location>Data Center 1</location>          
+    <age>5</age>
+
+</server1>      
+<server>    
+    <name>BackupServer</name>
+    <ip>10.0.1.0</ip>
+    <port>8081</port>
+    <status>inactive</status>   
+    <location>Data Center 2</location>
+    <age>3</age>
+</server>
+</servers>
+
